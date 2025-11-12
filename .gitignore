@@ -1,0 +1,14 @@
+#Sert a ne pas versionner ces fichiers qui sont sensibles
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
